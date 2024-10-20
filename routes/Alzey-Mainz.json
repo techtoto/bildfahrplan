@@ -1,0 +1,263 @@
+{
+  "route": [
+    {
+      "ril100": "FALZ",
+      "name": "Alzey",
+      "type": "Bf",
+      "km": 9.0
+    },
+    {
+      "ril100": "FAG",
+      "name": "Albig",
+      "type": "Hp",
+      "km": 11.4
+    },
+    {
+      "ril100": "FARM",
+      "name": "Armsheim",
+      "type":"Bf",
+      "km": 16.7
+    },
+    {
+      "ril100": "FWRR",
+      "name": "Wörrstadt",
+      "type":"Bf",
+      "km": 22.6
+    },
+    {
+      "ril100": "FSLH",
+      "name": "Saulheim",
+      "type":"Bf",
+      "km": 27.1
+    },
+    {
+      "ril100": "FNOL",
+      "name": "Nieder Olm",
+      "type":"Bf",
+      "km": 32.4
+    },
+    {
+      "ril100": "FKWO",
+      "name": "Klein Winternheim-Ober Olm",
+      "type":"Hp",
+      "km": 36.4
+    },
+    {
+      "ril100": "FMMB",
+      "name": "Mainz-Marienborn",
+      "type":"Bf",
+      "km": 39.9
+    },
+    {
+      "ril100": "FMGO",
+      "name": "Mainz-Gonsenheim",
+      "type":"Bf",
+      "km": 44.5
+    },
+    {
+      "ril100": "FWFK",
+      "name": "Mainz Waggonfabrik",
+      "type":"Hp",
+      "km": 47.6
+    },
+    {
+      "ril100": "FMZ",
+      "name": "Mainz Hbf",
+      "type":"Bf",
+      "km": 50.1
+    }
+  ],
+  
+  "journeys": [
+    {
+      "line": "RE13",
+      "stops": [
+        {
+          "ril100": "FALZ",
+          "arrival": null,
+          "departure": 13
+        },
+        {
+          "ril100": "FARM",
+          "arrival": 18,
+          "departure": 19
+        },
+        {
+          "ril100": "FWRR",
+          "arrival": 24,
+          "departure": 28
+        },
+        {
+          "ril100": "FSLH",
+          "arrival": 33,
+          "departure": 33
+        },
+        {
+          "ril100": "FNOL",
+          "arrival": 38,
+          "departure": 39
+        },
+        {
+          "ril100": "FMZ",
+          "arrival": 55,
+          "departure": null
+        }
+      ]
+    },
+    {
+      "line": "RE13",
+      "stops": [
+        {
+          "ril100": "FMZ",
+          "arrival": null,
+          "departure": 3
+        },
+        {
+          "ril100": "FNOL",
+          "arrival": 17,
+          "departure": 17
+        },
+        {
+          "ril100": "FSLH",
+          "arrival": 22,
+          "departure": 22
+        },
+        {
+          "ril100": "FWRR",
+          "arrival": 27,
+          "departure": 28
+        },
+        {
+          "ril100": "FARM",
+          "arrival": 35,
+          "departure": 36
+        },
+        {
+          "ril100": "FALZ",
+          "arrival": 43,
+          "departure": null
+        }
+      ]
+    },
+    {
+      "line": "RB31",
+      "stops": [
+        {
+          "ril100": "FALZ",
+          "arrival": null,
+          "departure": 34
+        },
+        {
+          "ril100": "FAG",
+          "arrival": 36,
+          "departure": 37
+        },
+        {
+          "ril100": "FARM",
+          "arrival": 41,
+          "departure": 41
+        },
+        {
+          "ril100": "FWRR",
+          "arrival": 46,
+          "departure": 47
+        },
+        {
+          "ril100": "FSLH",
+          "arrival": 51,
+          "departure": 51
+        },
+        {
+          "ril100": "FNOL",
+          "arrival": 56,
+          "departure": 60
+        },
+        {
+          "ril100": "FKWO",
+          "arrival": 64,
+          "departure": 64
+        },
+        {
+          "ril100": "FMMB",
+          "arrival": 68,
+          "departure": 73
+        },
+        {
+          "ril100": "FMGO",
+          "arrival": 77,
+          "departure": 78
+        },
+        {
+          "ril100": "FWFK",
+          "arrival": 81,
+          "departure": 81
+        },
+        {
+          "ril100": "FMZ",
+          "arrival": 85,
+          "departure": null
+        }
+      ]
+    },
+    {
+      "line": "RB31",
+      "stops": [
+        {
+          "ril100": "FMZ",
+          "arrival": null,
+          "departure": 33
+        },
+        {
+          "ril100": "FWFK",
+          "arrival": 36,
+          "departure": 37
+        },
+        {
+          "ril100": "FMGO",
+          "arrival": 40,
+          "departure": 40
+        },
+        {
+          "ril100": "FMMB",
+          "arrival": 45,
+          "departure": 48
+        },
+        {
+          "ril100": "FKWO",
+          "arrival": 51,
+          "departure": 52
+        },
+        {
+          "ril100": "FNOL",
+          "arrival": 56,
+          "departure": 57
+        },
+        {
+          "ril100": "FSLH",
+          "arrival": 62,
+          "departure": 62
+        },
+        {
+          "ril100": "FWRR",
+          "arrival": 66,
+          "departure": 67
+        },
+        {
+          "ril100": "FARM",
+          "arrival": 72,
+          "departure": 72
+        },
+        {
+          "ril100": "FAG",
+          "arrival": 77,
+          "departure": 77
+        },
+        {
+          "ril100": "FALZ",
+          "arrival": 81,
+          "departure": null
+        }
+      ]
+    }
+  ]
+}
